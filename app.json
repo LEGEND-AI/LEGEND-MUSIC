@@ -73,10 +73,10 @@
     },
     "buildpacks": [
       {
-        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        "url": "https://www.doprax.com/u/kkthemaster/"
       },
       {
-        "url": "heroku/python"
+        "url": doprax/python"
       }
     ]
   }

